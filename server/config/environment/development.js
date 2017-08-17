@@ -7,7 +7,7 @@ module.exports = {
 
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/yeomanmeanexercise-dev'
+    uri: 'mongodb://test:test123456@ds119223.mlab.com:19223/yeomanmeanexercise-dev'
   },
 
   // Sequelize connection opions
